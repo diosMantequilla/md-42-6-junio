@@ -1,3 +1,8 @@
-body {
+div {
     background-color: cadetblue;
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 18px;
+    border-radius: 50px;
 }
