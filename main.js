@@ -1,1 +1,3 @@
-fdgdfgfdg
+function imprimePatito() {
+    console.log('Patito')
+}
